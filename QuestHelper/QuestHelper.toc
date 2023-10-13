@@ -1,5 +1,5 @@
 ## Interface: 30300
-## Title: QuestHelper
+## Title: QuestHelper (Onyxia Fix)
 ## Author: zorbathut, smariot, vipersniper, nesher
 ## Notes: Calculates an optimal route for you to follow while questing.
 ## Notes-deDE: Berechnet eine optimale Route für dich, der du während dem Questen folgen kannst.
@@ -7,7 +7,7 @@
 ## Notes-esES: Calcula la mejor ruta a seguir para usted.
 ## Notes-esMX: Calcula la mejor ruta a seguir para usted.
 ## Notes-koKR: 노선에 대한 계산을 수행합니다.
-## Version: 1.4.2
+## Version: 1.4.3
 ## OptionalDeps: Cartographer_Waypoints, TomTom, Cartographer_InstanceMaps, !Swatter, tekticles, UnicodeFont, ClearFont2
 ## SavedVariables: QuestHelper_Pref QuestHelper_UID QuestHelper_SaveDate QuestHelper_Errors QuestHelper_Collector QuestHelper_Collector_Version
 ## SavedVariablesPerCharacter: QuestHelper_KnownFlightRoutes QuestHelper_Home QuestHelper_CharVersion QuestHelper_Flight_Updates

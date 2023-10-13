@@ -162,11 +162,13 @@ local function retrieveAchievement(id, db)
   for i = 1, critcount do
     QuestHelper: Assert(not db.criteria[crit_id])
     local _, _, crit_complete, crit_quantity, crit_reqquantity, _, _, _, _, crit_id = GetAchievementCriteriaInfo(id, i)
-
-    db.criteria[crit_id] = QuestHelper:CreateTable("collect_achievement criteria")
-    db.criteria[crit_id].complete = crit_complete
-    db.criteria[crit_id].progress = crit_quantity
-    db.criteria[crit_id].parent = id
+    
+    if crit_id then
+      db.criteria[crit_id] = QuestHelper:CreateTable("collect_achievement criteria")
+      db.criteria[crit_id].complete = crit_complete
+      db.criteria[crit_id].progress = crit_quantity
+      db.criteria[crit_id].parent = id
+    end
   end
 end
 
