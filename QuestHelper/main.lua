@@ -958,7 +958,7 @@ Thanks for testing!]], "QuestHelper " .. version_string, 500, 20, 10)
   
   --if frams == 5000 then please_submit_enabled = false end -- TOOK TOO LONG >:(
   if please_submit_enabled and startup_time and startup_time + 10 < GetTime() then
-    QuestHelper:TextOut(QHText("PLEASE_SUBMIT"))
+    --QuestHelper:TextOut(QHText("PLEASE_SUBMIT"))
     startup_time = nil
     please_submit_enabled = false
   end
