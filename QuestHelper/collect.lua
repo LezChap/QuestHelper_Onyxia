@@ -1,4 +1,4 @@
-QuestHelper_File["collect.lua"] = "1.4.1"
+QuestHelper_File["collect.lua"] = "1.4.3"
 QuestHelper_Loadtime["collect.lua"] = GetTime()
 
 local debug_output = false

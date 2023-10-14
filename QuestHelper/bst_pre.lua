@@ -58,5 +58,5 @@ end
 
 QuestHelper_File = {}
 QuestHelper_Loadtime = {}
-QuestHelper_File["bst_pre.lua"] = "1.4.1"
+QuestHelper_File["bst_pre.lua"] = "1.4.3"
 QuestHelper_Loadtime["bst_pre.lua"] = GetTime()

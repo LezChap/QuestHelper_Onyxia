@@ -1,4 +1,4 @@
-QuestHelper_File["mapbutton.lua"] = "1.4.1"
+QuestHelper_File["mapbutton.lua"] = "1.4.3"
 QuestHelper_Loadtime["mapbutton.lua"] = GetTime()
 
 --[[

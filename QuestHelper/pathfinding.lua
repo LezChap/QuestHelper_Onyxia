@@ -1,4 +1,4 @@
-QuestHelper_File["pathfinding.lua"] = "1.4.1"
+QuestHelper_File["pathfinding.lua"] = "1.4.3"
 QuestHelper_Loadtime["pathfinding.lua"] = GetTime()
 
 local IRONFORGE_PORTAL = {25,0.255,0.084, "Ironforge portal site"}

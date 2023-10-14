@@ -1,4 +1,4 @@
-QuestHelper_File["lang.lua"] = "1.4.1"
+QuestHelper_File["lang.lua"] = "1.4.3"
 QuestHelper_Loadtime["lang.lua"] = GetTime()
 
 -- These tables will be filled in later by their specific files.

@@ -1,4 +1,4 @@
-QuestHelper_File["menu.lua"] = "1.4.1"
+QuestHelper_File["menu.lua"] = "1.4.3"
 QuestHelper_Loadtime["menu.lua"] = GetTime()
 
 QuestHelper.active_menu = nil

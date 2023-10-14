@@ -1,4 +1,4 @@
-QuestHelper_File["manager_event.lua"] = "1.4.1"
+QuestHelper_File["manager_event.lua"] = "1.4.3"
 QuestHelper_Loadtime["manager_event.lua"] = GetTime()
 
 -- zorba why does this file exist, are you a terrible person? you are a terrible person aren't you

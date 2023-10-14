@@ -1,4 +1,4 @@
-QuestHelper_File["recycle.lua"] = "1.4.1"
+QuestHelper_File["recycle.lua"] = "1.4.3"
 QuestHelper_Loadtime["recycle.lua"] = GetTime()
 
 --[[

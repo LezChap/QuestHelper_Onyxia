@@ -1,4 +1,4 @@
-QuestHelper_File["utility.lua"] = "1.4.1"
+QuestHelper_File["utility.lua"] = "1.4.3"
 QuestHelper_Loadtime["utility.lua"] = GetTime()
 
 QuestHelper = CreateFrame("Frame", "QuestHelper", nil)

@@ -1,4 +1,4 @@
-QuestHelper_File["arrow.lua"] = "1.4.1"
+QuestHelper_File["arrow.lua"] = "1.4.3"
 QuestHelper_Loadtime["arrow.lua"] = GetTime()
 
 --[[ This entire file is pretty liberally ganked from TomTom (and then modified) under the following license:

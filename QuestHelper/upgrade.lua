@@ -1,4 +1,4 @@
-QuestHelper_File["upgrade.lua"] = "1.4.1"
+QuestHelper_File["upgrade.lua"] = "1.4.3"
 QuestHelper_Loadtime["upgrade.lua"] = GetTime()
 
 QuestHelper_Zones =

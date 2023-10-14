@@ -1,4 +1,4 @@
-QuestHelper_File["db_get.lua"] = "1.4.1"
+QuestHelper_File["db_get.lua"] = "1.4.3"
 QuestHelper_Loadtime["db_get.lua"] = GetTime()
 
 local dev_mode = (QuestHelper_File["db_get.lua"] == "Development Version")

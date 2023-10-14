@@ -1,4 +1,4 @@
-QuestHelper_File["nag.lua"] = "1.4.1"
+QuestHelper_File["nag.lua"] = "1.4.3"
 QuestHelper_Loadtime["nag.lua"] = GetTime()
 
 local function FindStaticQuest(faction, level, name, hash)

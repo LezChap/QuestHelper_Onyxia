@@ -1,4 +1,4 @@
-QuestHelper_File["routing_debug.lua"] = "1.4.1"
+QuestHelper_File["routing_debug.lua"] = "1.4.3"
 QuestHelper_Loadtime["routing_debug.lua"] = GetTime()
 
 function RTO(text)

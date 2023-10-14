@@ -1,4 +1,4 @@
-QuestHelper_File["cartographer.lua"] = "1.4.1"
+QuestHelper_File["cartographer.lua"] = "1.4.3"
 QuestHelper_Loadtime["cartographer.lua"] = GetTime()
 
 local cartographer_cb

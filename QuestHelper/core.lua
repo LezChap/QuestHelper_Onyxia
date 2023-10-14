@@ -1,4 +1,4 @@
-QuestHelper_File["core.lua"] = "1.4.1"
+QuestHelper_File["core.lua"] = "1.4.3"
 QuestHelper_Loadtime["core.lua"] = GetTime()
 
 

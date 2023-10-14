@@ -1,4 +1,4 @@
-QuestHelper_File["routing.lua"] = "1.4.1"
+QuestHelper_File["routing.lua"] = "1.4.3"
 QuestHelper_Loadtime["routing.lua"] = GetTime()
 
 -- Create module

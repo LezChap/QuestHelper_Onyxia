@@ -1,4 +1,4 @@
-QuestHelper_File["radar.lua"] = "1.4.1"
+QuestHelper_File["radar.lua"] = "1.4.3"
 QuestHelper_Loadtime["radar.lua"] = GetTime()
 
 local tick = GetTime()

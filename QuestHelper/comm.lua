@@ -1,4 +1,4 @@
-QuestHelper_File["comm.lua"] = "1.4.1"
+QuestHelper_File["comm.lua"] = "1.4.3"
 QuestHelper_Loadtime["comm.lua"] = GetTime()
 
 function QuestHelper:HandleRemoteData() end
